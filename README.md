@@ -20,3 +20,7 @@ go to the source of raylib and make the essential:
         cd raylib/src/ ; make PLATFORM=PLATFORM_DESKTOP
 
 exe
+
+---
+### project in refactoring
+---
