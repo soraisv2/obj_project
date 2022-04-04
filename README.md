@@ -1,4 +1,7 @@
-# obj_project
+---
+### Project actually in refactoring
+---
+
 Try to insert a .obj while the game is running
 
 Requirement :
@@ -20,7 +23,3 @@ go to the source of raylib and make the essential:
         cd raylib/src/ ; make PLATFORM=PLATFORM_DESKTOP
 
 exe
-
----
-### project in refactoring
----
